@@ -1,0 +1,10 @@
+Spacy
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz#egg=en_core_web_sm
+Flask
+Pytextrank
+Pandas
+Docx2txt
+gunicorn
+flask-markdown
+json2html
+flask_dropzone
