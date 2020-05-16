@@ -1,8 +1,6 @@
 Spacy
 nltk
-string
 sklearn
-re
 Flask
 pandas
 flask-markdown
