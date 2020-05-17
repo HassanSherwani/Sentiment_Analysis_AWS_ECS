@@ -1,5 +1,12 @@
 # Sentiment_Analysis_AWS_ECS
-Implementing sentiment analysis using aws ecs with docker
+Implementing sentiment analysis using aws ecs with docker.
+
+# Modules
+```bash
+
+pip3 install -r requirements.txt
+
+```
 
 # Results
 
